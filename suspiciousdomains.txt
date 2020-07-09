@@ -1472,8 +1472,5 @@ pvhmail.com
 izoc.cn
 uzod.cn
 pvh5.site
-apple.com
-espn.com
-yahoo.com
 #
 # END
